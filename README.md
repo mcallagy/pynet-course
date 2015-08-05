@@ -1,1 +1,3 @@
 # pynet-course
+
+print "foodoggy"
